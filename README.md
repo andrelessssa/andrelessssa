@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00EE00&height=120&section=header"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00EE00&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=HELLO,+My+name+is+André+Lessa;I'm+31+years+old;I'm+from+Brazil;I+Graduated+Systems+Development;Be+Welcome!+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00EE00&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=HELLO,+My+name+is+André+Lessa;I'm+from+Brazil;I+Graduated+Systems+Development;Be+Welcome!+:%29)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=andrelessssa&theme=github-compact)](https://github.com/andrelessssa/github-readme-activity-graph)
 
